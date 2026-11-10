@@ -1,0 +1,46 @@
+{
+    "file": {
+        "name": "long-island-diner.jpg",
+        "size_kb": 363.7,
+        "format": "JPEG",
+        "mode": "RGB",
+        "dimensions": "1600x1061",
+        "modified": "2026-10-31T20:51:10"
+    },
+    "exif": {
+        "ResolutionUnit": 2,
+        "DocumentName": "diner, diner long island, restaurant hicksville ny, breakfast near me, american diner, nassau county restaurant",
+        "ImageDescription": "Classic chrome diner with neon lights at dusk on South Broadway in Hicksville, Long Island, New York.",
+        "YResolution": 72.0,
+        "Artist": "Sean Suchara",
+        "DateTime": "2026:08:21 19:40:00",
+        "YCbCrPositioning": 1,
+        "Copyright": "Photo by Sean Suchara on Unsplash (Unsplash License), https://unsplash.com/photos/retro-diner-with-neon-lights-Oo713zjKa00",
+        "XResolution": 72.0,
+        "XPTitle": "D\u0000i\u0000n\u0000e\u0000r\u0000 \u0000i\u0000n\u0000 \u0000H\u0000i\u0000c\u0000k\u0000s\u0000v\u0000i\u0000l\u0000l\u0000e\u0000,\u0000 \u0000L\u0000o\u0000n\u0000g\u0000 \u0000I\u0000s\u0000l\u0000a\u0000n\u0000d\u0000,\u0000 \u0000N\u0000Y",
+        "ExifVersion": "0232",
+        "ComponentsConfiguration": "\u0001\u0002\u0003",
+        "FlashPixVersion": "0100",
+        "DateTimeOriginal": "2026:08:21 19:40:00",
+        "DateTimeDigitized": "2026:08:21 19:40:00",
+        "ColorSpace": 65535
+    },
+    "gps": {
+        "GPSVersionID": "\u0002\u0002",
+        "GPSLatitudeRef": "N",
+        "GPSLatitude": [
+            40.0,
+            46.0,
+            4.8
+        ],
+        "GPSLongitudeRef": "W",
+        "GPSLongitude": [
+            73.0,
+            31.0,
+            30.0
+        ],
+        "DecimalLatitude": 40.768,
+        "DecimalLongitude": -73.525,
+        "MapsLink": "https://www.google.com/maps?q=40.768,-73.525"
+    }
+}
