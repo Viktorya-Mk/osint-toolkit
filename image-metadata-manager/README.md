@@ -9,7 +9,6 @@ A small command line tool to inspect, export and strip EXIF metadata from images
 - Exports metadata as structured JSON to `output/`
 - Saves a metadata free copy to `output/cleaned/` (the original is never modified)
 
-Example:
 <img width="462" height="246" alt="example" src="https://github.com/user-attachments/assets/35bd570a-35cf-4152-8ac9-d5d85964bb3e" />
 
 
